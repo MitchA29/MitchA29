@@ -4,6 +4,9 @@
 <h3>-I graduated my bootcamp devCodeCamp</h3>
 <h3>-I am currently expanding my knowledge on JavaScript frameworks and libraries</h3>
 
+<h2>My languages and technologies:</h2>
+
+<h2>You can also find me at these places:</h2>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MitchA29&hide_border=true&&count_private=true&include_all_commits=true" />
 
