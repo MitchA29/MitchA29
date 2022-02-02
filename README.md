@@ -6,6 +6,10 @@
 
 <h2>My languages and technologies:</h2>
 
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+
 <h2>You can also find me at these places:</h2>
 
 [<img align="left" alt="Mitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
