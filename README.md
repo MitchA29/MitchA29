@@ -1,5 +1,5 @@
 # Hey! I'm Mitch Anderson
-##I am a software developer
+## I am a software developer
 
 <h3>-I graduated my bootcamp devCodeCamp</h3>
 <h3>-I am currently expanding my knowledge on JavaScript frameworks and libraries</h3>
@@ -10,11 +10,13 @@
 
 [<img align="left" alt="Mitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+## GitHub Stats:
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MitchA29&hide_border=true&&count_private=true&include_all_commits=true" />
 <a href="https://github.com/MitchA29">
 <img align="center" alt="Mitch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MitchA29&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/mitcha29">
+<a>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MitchA29&layout=compact&theme=radical" />
 </a>
 
