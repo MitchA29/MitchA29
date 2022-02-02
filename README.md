@@ -14,7 +14,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MitchA29&hide_border=true&&count_private=true&include_all_commits=true" />
 <a href="https://github.com/MitchA29">
-<img align="center" alt="Mitch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MitchA29&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 
 <img align="center" alt="Mitch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MitchA29&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
