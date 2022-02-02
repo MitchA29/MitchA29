@@ -44,7 +44,7 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MitchA29&layout=compact&theme=radical" />
 
-Thanks for Visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MitchA29}.${448388560})
+
 
 
 ---
