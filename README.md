@@ -33,7 +33,7 @@
 
 <h2>You can also find me at these places:</h2>
 [<img align="left" alt="Mitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]
+
 
 ## GitHub Stats:
 
