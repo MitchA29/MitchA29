@@ -32,14 +32,11 @@
 </code>](https://dev.mysql.com/)
 
 <h2>You can also find me at these places:</h2>
-[<img align="left" alt="Mitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Mitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 ## GitHub Stats:
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MitchA29&layout=compact&theme=radical" />
-
-
-
 
 ---
 [linkedin]: https://www.linkedin.com/in/mitchelanderson/
